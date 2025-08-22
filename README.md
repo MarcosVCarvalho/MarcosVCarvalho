@@ -5,7 +5,7 @@
 ### Linguagens:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emid1-o&hide=html" alt="Top Langs" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVCarvalho&hide=html" alt="Top Langs" width="400">
 </p>
 
 ### Tecnologias que uso ou estudo:
