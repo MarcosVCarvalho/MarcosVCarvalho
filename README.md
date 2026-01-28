@@ -1,6 +1,6 @@
 ## Olá, eu sou Marcos Vinicius Carvalho da Silva.
 
-💻 Sobre Mim: Estudante de Análise e Desenvolvimento de Sistemas, com foco em aprender e aplicar conhecimentos em Java, lógica de programação, estruturas de dados, POO e Análise de Dados.
+💻 Sobre Mim: Estudante de Análise e Desenvolvimento de Sistemas, com foco em aprender e aplicar conhecimentos em Java,Python, lógica de programação, estruturas de dados e Análise de Dados.
 
 ### Linguagens:
 
