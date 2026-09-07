@@ -2,11 +2,7 @@
 
 💻 Sobre Mim: Estudante de Análise e Desenvolvimento de Sistemas, com foco em aprender e aplicar conhecimentos em Java,Python, lógica de programação, estruturas de dados e Análise de Dados.
 
-### Linguagens:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVCarvalho&hide=html" alt="Top Langs" width="400">
-</p>
 
 ### Tecnologias que uso ou estudo:
 <div style="display: flex; flex-wrap: wrap;">
